@@ -1,1 +1,1 @@
-# Calculation-of-Heart-Rate
+# Detection-of-Heart-Rate
