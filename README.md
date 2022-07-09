@@ -1,1 +1,1 @@
-# Detection-of-Heart-Rate
+# Detection-of-Heart-Rate through phone camera
